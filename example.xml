@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<class>
+   <student rollno="393">
+      <firstname>Larry</firstname>
+      <lastname>Page</lastname>
+      <nickname>LP</nickname>
+      <marks>85</marks>
+   </student>
+   <student rollno="493">
+      <firstname>Mark</firstname>
+      <lastname>Zuckerberg</lastname>
+      <nickname>MZ</nickname>
+      <marks>95</marks>
+   </student>
+   <student rollno="593">
+      <firstname>Leonardo</firstname>
+      <lastname>Dicaprio</lastname>
+      <nickname>LD</nickname>
+      <marks>90</marks>
+   </student>
+</class>
